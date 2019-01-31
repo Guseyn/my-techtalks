@@ -26,5 +26,5 @@ const handleError = async () => {
   }
 }
 
-//handleError()
-//copyContent('./text1.txt', './text2.txt')
+handleError()
+copyContent('./text1.txt', './text2.txt')
